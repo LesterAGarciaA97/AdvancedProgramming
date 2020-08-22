@@ -1,0 +1,12 @@
+stack
+1 2 3 4 5 6
+queue
+1 2 3 4 5 6
+linkedlist
+1 2 3 4 5 6
+circularlinkedlist
+1 2 3 4 5 6
+doublelinkedlist
+1 2 3 4 5 6
+btree
+1 2 3 4 5 6

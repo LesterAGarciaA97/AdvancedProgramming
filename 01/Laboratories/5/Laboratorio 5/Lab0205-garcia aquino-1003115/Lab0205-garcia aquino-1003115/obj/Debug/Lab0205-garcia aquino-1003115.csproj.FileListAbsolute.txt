@@ -1,0 +1,6 @@
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\bin\Debug\Lab0205-garcia aquino-1003115.exe.config
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\bin\Debug\Lab0205-garcia aquino-1003115.exe
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\bin\Debug\Lab0205-garcia aquino-1003115.pdb
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\obj\Debug\Lab0205-garcia aquino-1003115.csprojResolveAssemblyReference.cache
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\obj\Debug\Lab0205-garcia aquino-1003115.exe
+E:\Lab0205-garcia aquino-1003115\Lab0205-garcia aquino-1003115\obj\Debug\Lab0205-garcia aquino-1003115.pdb
